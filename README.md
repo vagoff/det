@@ -1,8 +1,8 @@
-![THE RAISE OF DETH](doc/logo.png "THE RAISE OF DETH")
-
 <p align="center">
-  <img src="https://github.com/vagoff/det/blob/master/doc/logo.png?raw=true" alt="THE RAISE OF DETH"/>
+  <img title="THE RAISE OF DET" src="https://github.com/vagoff/det/blob/master/doc/logo.png?raw=true" alt="THE RAISE OF DET"/>
 </p>
+
+----
 
 DET's Highlights:
 * NEVER backtracks! (i.e., fully deterministic)
