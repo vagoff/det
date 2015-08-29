@@ -12,6 +12,6 @@ DET's Highlights:
 * allows to generate IR from source directly (look ma, no AST!)
 * language agnostic (works everywhere from haskell and prolog to c++ and javascript)
 * allows to apply arbitrary (including stateful) transformations on IR construction side (altrough not recommended)
-* stack consumption is known statically
+* static reasoning about stack consumption is easy
 + detection of inifinite loops at compile time
 + automatic proof of equivalence with BNF counterpart
